@@ -5,11 +5,6 @@
 </div>
 <h4 align="center"><em>yow</em></h4>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=niicoolest&theme=onedark" alt="niicoolest"/>
-  </a>
-</p>
 
 - 👯 I’m looking to collaborate on **JS projects**
 - 👀 I’m a Java developer.
