@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fatrixienicolieopetina&theme=onedark" alt="fatrixienicolieopetina"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=niicoolest&theme=onedark" alt="niicoolest"/>
   </a>
 </p>
 
@@ -15,27 +15,16 @@
 - 👀 I’m a Java developer.
 - 🌱 I’m currently learning JS and passing time through TOP (The Odin Project)
 - ✍️ I write dev posts about what I learned in <a href="https://dev.to/pat_the99">dev.to</a>. Those posts need some serious grammar checks 😆
-- 🖊️ Check this [stackbit site](https://energetic-mint-a3822.netlify.app/) that fetches my posts from the dev.to platform.
-- 👧 Personal Website using Neumorphism Jekyll Theme (#BLACKPINK-ed version 😆) [here](https://fatrixienicolieopetina.github.io/pat_the99/)
-- 🏫 School github profile can be found <a href="https://github.com/patricianicoleopetina">here</a>
+- 👧 Personal Website using Neumorphism Jekyll Theme (#BLACKPINK-ed version 😆) [here](https://niicoolest.github.io/pat_the99/)
 - ⚡ Fun fact **I can move both of my ears XD, if you can imagine that**
 - 💰 I'm also very interested in financial literacy
-- 📺 I'm a big kdrama fan
+- 📺 Anime Fan *ahem* Gojo-sensei
 - 💓 I love listening to bops and kpop
-
-<p align="left">
-  <h3>Spotify Playing 🎙️💃🎧</h3>
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=patricianicole5899&redirect=true">
-    <img src = "https://spotify-github-profile.vercel.app/api/view.svg?uid=patricianicole5899&cover_image=false&theme=default"/>
-  </a>
- </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/pat_the99" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pat_the99" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/colemepat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/twitter.svg" alt="colemepat" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/patricia-nicole-opetina-b589a0209" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="patricia-nicole-opetina-b589a0209" height="30" width="40" />
